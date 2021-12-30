@@ -5,4 +5,4 @@ Number: campos com apenas numeros guardados , sem espaços , traços caracteres 
 Datatime: data e hora, guarda numeros e traços apenas (ex: 29-12-21-12-49)
 
 primary key: é usado numero, podendo ser por exemplo o "id user".
-foreign key: 
+ 
