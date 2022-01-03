@@ -11,3 +11,9 @@ select e mais alguma coisa ele busca e mostra as informações pra gente.
 SELECT aluno, cpf  *   FROM   aluno 
 
 * desta forma selecionamos os campos que queremos que sejam buscados e mostrados.
+
+## where
+
+    SELECT   *    FROM  aluno WHERE matricula = 1
+
+* o comando where busca um dado especifico passando uma condição        
